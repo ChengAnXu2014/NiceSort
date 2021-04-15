@@ -1,0 +1,15 @@
+{
+	"schema_version": "3.0.0",
+	"packages": [
+		{
+			"name": "NiceSort",
+			"details": "https://github.com/ChengAnXu2014/NiceSort",
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"tags": true
+				}
+			]
+		}
+	]
+}
